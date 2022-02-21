@@ -1,4 +1,4 @@
-public class Item {
+public class Item { // class Item
     // attibute
     protected String name;
     protected boolean appear;
