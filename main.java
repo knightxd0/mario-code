@@ -6,6 +6,7 @@ public class main {
         Mushroom m1 = new Mushroom();
         m1.setAppear(true);
         m1.run(5, 0);
+        m1.run(2, 3);
         m1.show();
         System.out.println("----------------------------------------");
 
